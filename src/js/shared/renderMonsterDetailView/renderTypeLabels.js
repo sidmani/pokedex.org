@@ -14,5 +14,5 @@ module.exports = function renderTypeLabels(monster) {
         background: darkColor
       }
     }, type.name);
-  }).reverse();
+  });
 };
